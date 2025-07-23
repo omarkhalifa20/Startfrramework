@@ -20,7 +20,7 @@ function displaylabel(e) {
     <div className='Contactstyle py-4 d-flex flex-column align-items-center justify-content-center text-white'>
             <div className='container'>
              <div className='d-flex contact-head align-items-center justify-content-center flex-column '>
-             <h2 className='fs-1 fw-bolder mb-3 contacth3' >CONATCT SECTION</h2>
+             <h2 className='fs-1 fw-bolder mb-3 contacth2' >CONATCT SECTION</h2>
              <div className='starstyle d-flex align-items-center justify-content-center mb-3'>
                <i className='fa-solid fa-star mx-3 '></i> 
              </div>
